@@ -1027,6 +1027,10 @@ video {
     margin-bottom: 10rem;
   }
 
+  .md\:block {
+    display: block;
+  }
+
   .md\:inline {
     display: inline;
   }

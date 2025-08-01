@@ -150,23 +150,21 @@
     <!-- footer -->
     <footer>
         <!-- first seaction of footer -->
-        <div class="flex flex-col items-center md:items-start md:flex-row justify-center  gap-8 pt-16 pb-16 mb-4 border-t-4 border-orange-600">
+        <div class="flex flex-col items-center md:items-start md:flex-row justify-center  gap-8 pt-16 pb-16  border-t-4 border-orange-600">
             <!-- footer image -->
             <div>
                 <img class="h-40" src="https://i.ibb.co/KYVhcjF/accounting-consultants-footer-2x.jpg" alt="accounting-consultants-footer-2x">
             </div>
             <!-- contact info -->
             <div class="flex flex-col">
-                <div class="flex flex-col mb-6 md:flex-row  md:content-end">
+                <div class="flex flex-col md:items-start">
                     <div class="paragraph-secondary">
-                        <a href="tel:18009990000">+1 800 999 0000 </a>
+                        <a href="tel:18009990000">Call +1 800 999 0000 &nbsp; </a>
                     </div>
-                    <span class="hidden md:inline paragraph-secondary ">
-                        <p>&nbsp;|&nbsp;</p>
-                    </span>
+
 
                     <div class="paragraph-secondary ">
-                        <a href="mailto:info@accountingconsultants.biz"> info@accountingconsultants.biz
+                        <a href="mailto:info@accountingconsultants.biz"> Email info@accountingconsultants.biz
                         </a>
                     </div>
                 </div>
