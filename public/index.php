@@ -49,6 +49,7 @@
                 <h1 class=" text-white text-6xl text-center font-black text-green-600 p-16 mb-8">ACCOUNTANTS AS <br>
                     INNOVATIVE AS YOU ARE
                 </h1>
+                <a class="" href=""></a>
 
                 <button type="button" href="google.com" target="" class="mb-20 button-hero ">Let&#39s Chat</button>
             </div>
@@ -65,7 +66,7 @@
                 <div class="h2-primary mb-8">
                     <h2>OUR PROCESS</h2>
                 </div>
-                <img class="" src="https://i.ibb.co/tymnZVq/orange-divider.png" alt="orange-divider" class="w-30">
+                <img src="https://i.ibb.co/tymnZVq/orange-divider.png" alt="orange-divider" class="w-30">
 
             </div>
         </div>
@@ -74,7 +75,7 @@
             <!-- individual process Book-->
             <div class=" flex flex-col items-center">
                 <!-- image -->
-                <div class="w-60 h-60 border border-orange-800 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
+                <div class="w-60 h-60 border-4 border-orange-600 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
                     <img class="w-40 h-40 object-contain mx-auto" src="https://i.ibb.co/qYmRMgfq/open-book-icon-1.png" alt="open-book-icon-1">
                 </div>
                 <div class="flex flex-col items-center">
@@ -88,7 +89,7 @@
             <!-- Individual process Engage-->
             <div class=" flex flex-col items-center">
                 <!-- image -->
-                <div class="w-60 h-60 border border-orange-800 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
+                <div class="w-60 h-60 border-4 border-orange-600 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
                     <img class="w-40 h-40 object-contain mx-auto" src="https://i.ibb.co/QtFsmSp/partner-handshake-icon-1.png" alt="partner-handshake-icon">
                 </div>
                 <div class="flex flex-col items-center">
@@ -102,7 +103,7 @@
             <!-- Individual process Automate -->
             <div class=" flex flex-col items-center">
                 <!-- image -->
-                <div class="w-60 h-60 border border-orange-800 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
+                <div class="w-60 h-60 border-4 border-orange-600 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
                     <img class="w-40 h-40 object-contain mx-auto" src="https://i.ibb.co/g5GrmSq/setting-line-icon-1.png" alt="setting-line-icon-1">
                 </div>
                 <div class="flex flex-col items-center">
@@ -116,7 +117,7 @@
             <!-- Individual process control -->
             <div class=" flex flex-col items-center">
                 <!-- image -->
-                <div class="w-60 h-60  border border-orange-800 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
+                <div class="w-60 h-60  border-4 border-orange-600 px-8 py-8 mb-8 flex flex-row items-center hover:scale-105 transition-transform duration-300">
                     <img class="w-40 h-40 object-contain mx-auto" src="https://i.ibb.co/cKhDwQzy/business-management-icon-1.png" alt="business-management-icon">
                 </div>
                 <div class="flex flex-col items-center">
@@ -130,6 +131,139 @@
         </div>
     </section>
 
+    <!-- Bottom banner -->
+    <section>
+        <div class="bg-[url(https://i.ibb.co/KcVdHDNS/buiness.jpg)] bg-no-repeat bg-center bg-cover mb-40 pt-20 pb-20 h-75 ">
+            <div class="flex flex-row items-end justify-center gap-8">
+                <div>
+                    <h2 class="h2-secondary">Business In <br>
+                        All Industries</h2>
+                </div>
+                <div>
+                    <a class="button-hero" href="">Business Solutions &rarr;</a>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <footer>
+        <!-- first seaction of footer -->
+        <div class="flex md:flex-row justify-center gap-8 pt-16 pb-16 mb-4 border-t-4 border-orange-600">
+            <!-- footer image -->
+            <div>
+                <img class="h-40" src="https://i.ibb.co/KYVhcjF/accounting-consultants-footer-2x.jpg" alt="accounting-consultants-footer-2x">
+            </div>
+            <!-- contact info -->
+            <div class="flex flex-col">
+                <div class="flex flex-col md:flex-row mb-6">
+                    <div class="paragraph-secondary">
+                        <a href="tel:18009990000">+1 800 999 0000</a>
+                    </div>
+                    <span class="hidden md:inline paragraph-secondary">
+                        <p>&nbsp;|&nbsp;</p>
+                    </span>
+
+                    <div class="paragraph-secondary ">
+                        <a href="mailto:info@accountingconsultants.biz"> info@accountingconsultants.biz
+                        </a>
+                    </div>
+                </div>
+                <!-- social icons -->
+                <div class="flex flex-col md:flex-row gap-4 mb-6">
+                    <div>
+                        <a class="h-5" href="#"><img src="https://i.ibb.co/Z1hPrMtv/Facebook.png" alt="Facebook logo"></a>
+                    </div>
+
+                    <div>
+                        <a href="#"><img src="https://i.ibb.co/rf5PGPwG/IG-WHITE.png" alt="IG-WHITE Logo"></a>
+                    </div>
+                    <div>
+                        <a href="#"><img src="https://i.ibb.co/pBS88fp3/Twitter-white.png" alt="Twitter-white logo"></a>
+                    </div>
+                    <div>
+                        <a href="https://ibb.co/yF2jwDvH"><img src="https://i.ibb.co/TMy3VZj9/Linkedin.png" alt="Linkedin logo"></a>
+                    </div>
+
+                </div>
+                <!-- nav links -->
+                <div class="flex flex-col md:flex-row mb-6">
+                    <div class="paragraph-secondary">
+                        <a href="#">Home</a>
+                    </div>
+                    <span class="hidden md:inline paragraph-secondary">
+                        <p>&nbsp;|&nbsp;</p>
+                    </span>
+
+                    <div class="paragraph-secondary ">
+                        <div class="paragraph-secondary">
+                            <a href="#">Services</a>
+                        </div>
+                        </a>
+                    </div>
+                    <span class="hidden md:inline paragraph-secondary">
+                        <p>&nbsp;|&nbsp;</p>
+                    </span>
+                    <div class="paragraph-secondary">
+                        <a href="#">About Us</a>
+                    </div>
+                    <span class="hidden md:inline paragraph-secondary">
+                        <p>&nbsp;|&nbsp;</p>
+                    </span>
+
+                    <div class="paragraph-secondary ">
+                        <div class="paragraph-secondary">
+                            <a href="#">Who We Serve</a>
+                        </div>
+                        </a>
+                    </div>
+                    <span class="hidden md:inline paragraph-secondary">
+                        <p>&nbsp;|&nbsp;</p>
+                    </span>
+                    <div class="paragraph-secondary ">
+                        <div class="paragraph-secondary">
+                            <a href="#">Pricing</a>
+                        </div>
+                        </a>
+                    </div>
+                    <span class="hidden md:inline paragraph-secondary">
+                        <p>&nbsp;|&nbsp;</p>
+                    </span>
+                    <div class="paragraph-secondary">
+                        <a href="#">Login</a>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+        </div>
+        <!-- orange section -->
+        <div class="flex flex-col justify-center md:flex-row mb-6 py-8 bg-orange-600">
+            <div class="paragraph-footer">
+                <p>&copy; 2024</p>
+            </div>
+            <span class="hidden md:inline paragraph-footer">
+                <p>&nbsp;|&nbsp;</p>
+            </span>
+
+            <div class="paragraph-secondary ">
+                <div class="paragraph-footer">
+                    <a href="#">Privacy Policy</a>
+                </div>
+                </a>
+            </div>
+            <span class="paragraph-footer">
+                <p>&nbsp;|&nbsp;</p>
+            </span>
+            <div class="paragraph-footer">
+                <a href="#">Designed and Developed by Dwayne Keane</a>
+            </div>
+        </div>
+
+
+    </footer>
 
 </body>
 
