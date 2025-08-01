@@ -14,7 +14,7 @@
     <section>
         <!-- Navbar -->
         <nav>
-            <div class="flex flex-row justify-between items-center px-20 pt-8 mb-8">
+            <div class="hidden sm:visible sm:flex flex-row justify-between items-center px-20 pt-8 mb-8 ">
                 <!-- logo -->
 
                 <a href="/" target="_blank">
@@ -150,18 +150,18 @@
     <!-- footer -->
     <footer>
         <!-- first seaction of footer -->
-        <div class="flex flex-col md:flex-row justify-center items-center gap-8 pt-16 pb-16 mb-4 border-t-4 border-orange-600">
+        <div class="flex flex-col items-center md:items-start md:flex-row justify-center  gap-8 pt-16 pb-16 mb-4 border-t-4 border-orange-600">
             <!-- footer image -->
             <div>
                 <img class="h-40" src="https://i.ibb.co/KYVhcjF/accounting-consultants-footer-2x.jpg" alt="accounting-consultants-footer-2x">
             </div>
             <!-- contact info -->
             <div class="flex flex-col">
-                <div class="flex flex-col md:flex-row mb-6">
+                <div class="flex flex-col mb-6 md:flex-row  md:content-end">
                     <div class="paragraph-secondary">
-                        <a href="tel:18009990000">+1 800 999 0000</a>
+                        <a href="tel:18009990000">+1 800 999 0000 </a>
                     </div>
-                    <span class="md:inline paragraph-secondary invisible md:visible ">
+                    <span class="hidden md:inline paragraph-secondary ">
                         <p>&nbsp;|&nbsp;</p>
                     </span>
 
@@ -171,7 +171,7 @@
                     </div>
                 </div>
                 <!-- social icons -->
-                <div class="flex flex-col justify-center items-center md:flex-row gap-4 mb-6">
+                <div class="flex flex-col justify-center items-center md:flex-row md:justify-start gap-4 mb-6">
                     <div>
                         <a class="h-5" href="#"><img src="https://i.ibb.co/Z1hPrMtv/Facebook.png" alt="Facebook logo"></a>
                     </div>
