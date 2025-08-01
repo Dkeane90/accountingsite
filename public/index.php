@@ -44,14 +44,14 @@
             <div class="flex flex-col items-center pt-40">
                 <div>
 
-                    <img src="https://i.ibb.co/Xfg16zr7/accounting-consultants-white-small.png" alt="accounting-consultants-white-small" class="h-40">
+                    <img src="https://i.ibb.co/Xfg16zr7/accounting-consultants-white-small.png" alt="accounting-consultants-white-small" class="h-20 sm:h-28 md:h-32 lg:h-40 transition-all duration-300">
                 </div>
-                <h1 class=" text-white text-6xl text-center font-black text-green-600 p-16 mb-8">ACCOUNTANTS AS <br>
+                <h1 class=" text-2xl text-center font-black text-white pt-8 mb-8 break-words sm:text-4xl md:p-16 md:text-6xl">ACCOUNTANTS AS <br>
                     INNOVATIVE AS YOU ARE
                 </h1>
-                <a class="" href=""></a>
+                <a class="button-hero mb-20" href="#">Let&#39s Chat</a>
 
-                <button type="button" href="google.com" target="" class="mb-20 button-hero ">Let&#39s Chat</button>
+
             </div>
 
 
@@ -62,7 +62,7 @@
 
         <div class=" flex flex-col">
             <!-- process -->
-            <div class="flex flex-col items-center justify-items-center mb-40">
+            <div class="flex flex-col items-center justify-items-center mb-20 md:mb-40">
                 <div class="h2-primary mb-8">
                     <h2>OUR PROCESS</h2>
                 </div>
@@ -71,7 +71,7 @@
             </div>
         </div>
         <!-- All processes -->
-        <div class="flex flex-row justify-between mb-40 ml-8 mr-8 ">
+        <div class="flex flex-col gap-8 mb-40 ml-8 mr-8 md:flex-row md:justify-between">
             <!-- individual process Book-->
             <div class=" flex flex-col items-center">
                 <!-- image -->
@@ -133,8 +133,8 @@
 
     <!-- Bottom banner -->
     <section>
-        <div class="bg-[url(https://i.ibb.co/KcVdHDNS/buiness.jpg)] bg-no-repeat bg-center bg-cover mb-40 pt-20 pb-20 h-75 ">
-            <div class="flex flex-row items-end justify-center gap-8">
+        <div class="bg-[url(https://i.ibb.co/KcVdHDNS/buiness.jpg)] bg-no-repeat bg-center bg-cover mb-40 pt-20 pb-20 h-75">
+            <div class="flex flex-col items-center md:flex-row md:items-end justify-center gap-8">
                 <div>
                     <h2 class="h2-secondary">Business In <br>
                         All Industries</h2>
@@ -147,9 +147,10 @@
             </div>
         </div>
     </section>
+    <!-- footer -->
     <footer>
         <!-- first seaction of footer -->
-        <div class="flex md:flex-row justify-center gap-8 pt-16 pb-16 mb-4 border-t-4 border-orange-600">
+        <div class="flex flex-col md:flex-row justify-center items-center gap-8 pt-16 pb-16 mb-4 border-t-4 border-orange-600">
             <!-- footer image -->
             <div>
                 <img class="h-40" src="https://i.ibb.co/KYVhcjF/accounting-consultants-footer-2x.jpg" alt="accounting-consultants-footer-2x">
@@ -160,7 +161,7 @@
                     <div class="paragraph-secondary">
                         <a href="tel:18009990000">+1 800 999 0000</a>
                     </div>
-                    <span class="hidden md:inline paragraph-secondary">
+                    <span class="md:inline paragraph-secondary invisible md:visible ">
                         <p>&nbsp;|&nbsp;</p>
                     </span>
 
@@ -170,7 +171,7 @@
                     </div>
                 </div>
                 <!-- social icons -->
-                <div class="flex flex-col md:flex-row gap-4 mb-6">
+                <div class="flex flex-col justify-center items-center md:flex-row gap-4 mb-6">
                     <div>
                         <a class="h-5" href="#"><img src="https://i.ibb.co/Z1hPrMtv/Facebook.png" alt="Facebook logo"></a>
                     </div>
@@ -191,7 +192,7 @@
                     <div class="paragraph-secondary">
                         <a href="#">Home</a>
                     </div>
-                    <span class="hidden md:inline paragraph-secondary">
+                    <span class="md:inline paragraph-secondary invisible md:visible">
                         <p>&nbsp;|&nbsp;</p>
                     </span>
 
@@ -201,13 +202,13 @@
                         </div>
                         </a>
                     </div>
-                    <span class="hidden md:inline paragraph-secondary">
+                    <span class="md:inline paragraph-secondary invisible md:visible">
                         <p>&nbsp;|&nbsp;</p>
                     </span>
                     <div class="paragraph-secondary">
                         <a href="#">About Us</a>
                     </div>
-                    <span class="hidden md:inline paragraph-secondary">
+                    <span class="md:inline paragraph-secondary invisible md:visible">
                         <p>&nbsp;|&nbsp;</p>
                     </span>
 
@@ -217,7 +218,7 @@
                         </div>
                         </a>
                     </div>
-                    <span class="hidden md:inline paragraph-secondary">
+                    <span class="md:inline paragraph-secondary invisible md:visible">
                         <p>&nbsp;|&nbsp;</p>
                     </span>
                     <div class="paragraph-secondary ">
@@ -226,7 +227,7 @@
                         </div>
                         </a>
                     </div>
-                    <span class="hidden md:inline paragraph-secondary">
+                    <span class="md:inline paragraph-secondary invisible md:visible">
                         <p>&nbsp;|&nbsp;</p>
                     </span>
                     <div class="paragraph-secondary">
@@ -244,7 +245,7 @@
             <div class="paragraph-footer">
                 <p>&copy; 2024</p>
             </div>
-            <span class="hidden md:inline paragraph-footer">
+            <span class="md:inline paragraph-footer invisible md:visible">
                 <p>&nbsp;|&nbsp;</p>
             </span>
 
@@ -255,7 +256,7 @@
                 </a>
             </div>
             <span class="paragraph-footer">
-                <p>&nbsp;|&nbsp;</p>
+                <p class="invisible md:visible">&nbsp;|&nbsp;</p>
             </span>
             <div class="paragraph-footer">
                 <a href="#">Designed and Developed by Dwayne Keane</a>
