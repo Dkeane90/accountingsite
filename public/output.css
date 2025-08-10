@@ -563,6 +563,11 @@ video {
   margin-right: auto;
 }
 
+.mx-16 {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
 .mb-20 {
   margin-bottom: 5rem;
 }
@@ -597,6 +602,14 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mr-16 {
+  margin-right: 4rem;
+}
+
+.mt-16 {
+  margin-top: 4rem;
 }
 
 .flex {
@@ -683,6 +696,10 @@ video {
   flex-direction: column;
 }
 
+.content-center {
+  align-content: center;
+}
+
 .items-end {
   align-items: flex-end;
 }
@@ -709,6 +726,18 @@ video {
 
 .gap-8 {
   gap: 2rem;
+}
+
+.gap-16 {
+  gap: 4rem;
+}
+
+.gap-24 {
+  gap: 6rem;
+}
+
+.gap-10 {
+  gap: 2.5rem;
 }
 
 .gap-y-1 {
