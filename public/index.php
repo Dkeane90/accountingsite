@@ -136,7 +136,7 @@
         <div class="bg-[url(https://i.ibb.co/KcVdHDNS/buiness.jpg)] bg-no-repeat bg-center bg-cover mb-40 pt-20 pb-20 h-75">
             <div class="flex flex-col items-center md:flex-row md:items-end justify-center gap-8">
                 <div>
-                    <h2 class="h2-secondary">Business In <br>
+                    <h2 class="h2-secondary">Business In <br class="hidden md:inline">
                         All Industries</h2>
                 </div>
                 <div>
@@ -159,30 +159,28 @@
             <div class="flex flex-col">
                 <div class="flex flex-col md:items-start">
                     <div class="paragraph-secondary">
-                        <a href="tel:18009990000">Call +1 800 999 0000 &nbsp; </a>
+                        <a href="tel:18009990000">Call: +1 800 999 0000 &nbsp; </a>
                     </div>
 
 
                     <div class="paragraph-secondary ">
-                        <a href="mailto:info@accountingconsultants.biz"> Email info@accountingconsultants.biz
+                        <a href="mailto:info@accountingconsultants.biz"> Email: info@accountingconsultants.biz
                         </a>
                     </div>
                 </div>
                 <!-- social icons -->
-                <div class="flex flex-col justify-center items-center md:flex-row md:justify-start gap-4 mb-6">
-                    <div>
-                        <a class="h-5" href="#"><img src="https://i.ibb.co/Z1hPrMtv/Facebook.png" alt="Facebook logo"></a>
+                <div class="flex flex-col justify-center items-center md:flex-row md:justify-start gap-4 mb-6 mt-4 md:h-10 md:w-44 ">
+                    <div class="h-10 w-10">
+                        <a href="#"><img src="https://i.ibb.co/Z1hPrMtv/Facebook.png" alt="Facebook logo"></a>
                     </div>
 
-                    <div>
+                    <div class="h-10 w-10">
                         <a href="#"><img src="https://i.ibb.co/rf5PGPwG/IG-WHITE.png" alt="IG-WHITE Logo"></a>
                     </div>
-                    <div>
+                    <div class="h-10 w-10">
                         <a href="#"><img src="https://i.ibb.co/pBS88fp3/Twitter-white.png" alt="Twitter-white logo"></a>
                     </div>
-                    <div>
-                        <a href="https://ibb.co/yF2jwDvH"><img src="https://i.ibb.co/TMy3VZj9/Linkedin.png" alt="Linkedin logo"></a>
-                    </div>
+
 
                 </div>
                 <!-- nav links -->
