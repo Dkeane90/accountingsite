@@ -33,6 +33,9 @@
 .paragraph-secondary {
   @apply inline-block text-lg font-bold text-center text-blue-900 whitespace-normal break-words;
 }
+.paragraph-left {
+  @apply inline-block text-lg font-bold text-left text-blue-900 whitespace-normal break-words;
+}
 
 .paragraph-footer {
   @apply inline-block text-lg font-bold text-center text-white whitespace-normal break-words;

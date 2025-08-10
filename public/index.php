@@ -9,17 +9,17 @@ loadPartial("navbar");
 
 <!-- Why consultants -->
 
-<section>
+<section class="">
 
     <!-- Main Div -->
-    <div class="flex flex-col md:flex-row gap-8 justify-center ">
+    <div class="flex flex-col md:flex-row gap-8 justify-between px-20 ">
         <!-- Right side -->
         <div class="flex flex-col ">
             <div>
                 <h2 class="h2-primary mb-8">Why Account <br class=""> Consultants?</h2>
             </div>
             <div>
-                <p class="paragraph-secondary"> We&apos;re driven by the belief that great things happen through partnerships.<br> Our mission is to give businesses the opportunity to thrive by simplifying their financial and people complexities. <br>We combine exceptional talent with cutting-edge technology, providing individualized solutions that empower both your team and your business.
+                <p class="paragraph-left"> We&apos;re driven by the belief that great things happen through partnerships.<br> Our mission is to give businesses the opportunity to thrive by simplifying their financial and people complexities. <br>We combine exceptional talent with cutting-edge technology, providing individualized solutions <br> that empower both your team and your business.
                 </p>
             </div>
 
