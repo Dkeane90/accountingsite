@@ -1,10 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    // Look for all .php files inside the 'public' directory and its subdirectories
-    "./public/**/*.php",
-    // Also look for all .html files inside the 'public' directory and its subdirectories
-    "./public/**/*.html",
+    // This will scan ALL .php files in your entire project and its subdirectories
+    "./**/*.php",
+    // This will also scan all .html files
+    "./**/*.html",
   ],
   theme: {
     extend: {},
