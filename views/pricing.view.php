@@ -169,10 +169,10 @@ loadPartial("navbar");
                         <span class="text-xl font-bold text-green-600">&check;&nbsp; </span> Monthly finance meeting
                     </div>
                     <div class="py-8 border-b-2 border-slate-400 mb-16 text-xl font-bold text-gray-600">
-                        <span class="text-xl font-bold text-green-600">&check;&nbsp; </span> Monthly finance meeting
+                        <span class="text-xl font-bold text-green-600">&check;&nbsp; </span> Custom KPI and metrics reporting
                     </div>
 
-                    <div> <a class="button" href="">Get Bookkeeping Plus &rarr;</a></div>
+                    <div> <a class="button" href="">Get Controller Services &rarr;</a></div>
                 </div>
 
 

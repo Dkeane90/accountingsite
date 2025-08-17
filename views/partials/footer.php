@@ -37,32 +37,32 @@
                 <!-- nav links -->
                 <div class="flex flex-col md:flex-row mb-6">
                     <div class="paragraph-secondary">
-                        <a href="#">Home &nbsp;</a>
+                        <a href="/">Home &nbsp;</a>
                     </div>
 
 
                     <div class="paragraph-secondary ">
                         <div class="paragraph-secondary">
-                            <a href="#">Services &nbsp;</a>
+                            <a href="/services">Services &nbsp;</a>
                         </div>
                         </a>
                     </div>
 
                     <div class="paragraph-secondary">
-                        <a href="#">About Us &nbsp;</a>
+                        <a href="/aboutus">About Us &nbsp;</a>
                     </div>
 
 
                     <div class="paragraph-secondary ">
                         <div class="paragraph-secondary">
-                            <a href="#">Who We Serve &nbsp;</a>
+                            <a href="/industry">Who We Serve &nbsp;</a>
                         </div>
                         </a>
                     </div>
 
                     <div class="paragraph-secondary ">
                         <div class="paragraph-secondary">
-                            <a href="#">Pricing &nbsp;</a>
+                            <a href="/price">Pricing &nbsp;</a>
                         </div>
                         </a>
                     </div>
@@ -80,21 +80,16 @@
         <!-- orange section -->
         <div class="flex flex-col justify-center md:flex-row mb-6 py-8 bg-orange-600">
             <div class="paragraph-footer">
-                <p>&copy; 2024</p>
+                <p>&copy; 2024 &nbsp;</p>
             </div>
-            <span class="md:inline paragraph-footer invisible md:visible">
-                <p>&nbsp;|&nbsp;</p>
-            </span>
 
             <div class="paragraph-secondary ">
                 <div class="paragraph-footer">
-                    <a href="#">Privacy Policy</a>
+                    <a href="#">Privacy Policy &nbsp;</a>
                 </div>
                 </a>
             </div>
-            <span class="paragraph-footer">
-                <p class="invisible md:visible">&nbsp;|&nbsp;</p>
-            </span>
+
             <div class="paragraph-footer">
                 <a href="#">Designed and Developed by Dwayne Keane</a>
             </div>
