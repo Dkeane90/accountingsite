@@ -11,7 +11,7 @@ loadPartial("navbar");
     <!-- Main Div -->
     <div class="flex flex-col md:flex-row justify-center items-center gap-10 px-20 mt-20 mb-16">
         <!-- Top Left side -->
-        <div class="flex flex-col justify-between md:flex-row p-16 bg-orange-100">
+        <div class="flex flex-col justify-between md:flex-row p-16 bg-orange-100 rounded-lg">
             <div>
                 <h2 class="h2-primary mb-8">Why Account Consultants?</h2>
                 <div>

@@ -16,6 +16,7 @@
                 <a class="button" href="/contact">Contact Us</a>
                 <a class="button-secondary" href="/price">Pricing</a>
                 <a class="button-secondary" href="/login">Login</a>
+                <a class="button-secondary" href="/blog">Blog</a>
             </div>
 
         </div>
