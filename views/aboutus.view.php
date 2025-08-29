@@ -18,7 +18,7 @@ loadPartial("navbar");
                     <p class="paragraph-left"> We&apos;re driven by the belief that great things happen through partnerships.<br> Our mission is to give businesses the opportunity to thrive by <br>simplifying their financial and people complexities. <br>We combine exceptional talent with cutting-edge technology, providing individualized solutions <br> that empower both your team and your business.
                     </p>
                     <div class="flex flex-col md:flex-row mt-8 md:gap-10">
-                        <a class="button" href="">Let&#39;s Chat</a>
+                        <a class="button" href="/signup">Let&#39;s Chat</a>
                         <a class="button-secondary" href="">See Reviews</a>
                     </div>
                 </div>

@@ -10,9 +10,15 @@ function basePath($path)
 
 // Loadview function
 
-function loadView($view)
+function loadView($view, $data = [])
 {
     require basePath("views/{$view}.view.php");
+    extract($data);
+    if (file_exists($viewPath)) {
+        require $viewPath;
+    } else {
+        echo "View '{$view} not found!'";
+    }
 }
 
 function loadPartial($partial)
